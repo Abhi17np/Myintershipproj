@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Business Website Development</title>
+    <link rel="stylesheet" href="style1.css">
+</head>
+<body bgcolor=lightblue>
+    <section class="header">
+        <nav>
+            <a href="taskweek1.html"><img src="C:\Users\DELL\Desktop\New folder\logoo.jfif"></a>
+            <div class="nav-links">
+                <ul>
+                    <li><a href="">HOME</a></li>
+                    <li><a href="">ABOUT</a></li>
+                    <li><a href="">COURSE</a></li>
+                    <li><a href="">BLOG</a></li>
+                    <li><a href="">CONTACT</a></li>
+                </ul>
+            </div>
+        </nav>
+        <div class="text-box">
+            <h1>AUDUi WEB DESIGNERS</h1>
+            <p>Expert guidance and assistance from the team and also meet the unique needs of enterprise level organizations
+            </p>
+            <a href="" class="hero-btn">Visit Us To know More</a>
+        </div> 
+    </section>
+    <section class="course">
+        <h1>Services/Products </h1>
+        <p>Website design and development services</p>
+        <div class="row">
+            <div class="course-col">
+                <h3>Custom web application and development</h3>
+                <p>Provide yours users with unique and user-centric websites with customized functionality 
+</p>
+            </div>
+            <div class="course-col">
+                <h3>Application migration</h3>
+                <p>Migrate your current web application smoothly without missing out on any features or functionalities</p>
+            </div>
+            <div class="course-col">
+                <h3>Application support and maintainence</h3>
+                <p>Ensure smooth operations and application reliability with our ongoing support services</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="facilities">
+        <h1>Our Facilities</h1>
+       
+        <div class="row">
+            <div class="facilities-col">
+                <img src="C:\Users\DELL\Desktop\New folder\4g.jfif">
+                <h3>Team with great work experience</h3>
+                <p>Core tech team has experience which can shape your business workflow with help of scalable technology</p>   
+            </div>
+            <div class="facilities-col">
+                <img src="C:\Users\DELL\Desktop\New folder\1g.jpg">
+                <h3>Trusted by 500+ Customers </h3>
+                <p>With many years of experience in business we are proud of our trust shown by our valuable customers</p>   
+            </div>
+            <div class="facilities-col">
+                <img src="C:\Users\DELL\Desktop\New folder\3g.jpg">
+                <h3>End to End services</h3>
+                <p>Right from design, consulting,content, product development, digital marketing we have got your covered</p>   
+            </div>
+        </div>
+    </section>
+    <section class="testimonials">
+        <h1>About Us</h1>
+        <p>To provide the most efficient web design</p>
+        <div class="row">
+            <div class="testimonials-col">
+                <img src="C:\Users\DELL\Desktop\New folder\people.jfif">
+
+                <div>
+<h3>Our mission </h3>
+                    <p>Making web design better and easy for everyone. We help people to achieve independence by providing them web design to start, run , market, promote their business. We believe that future of this create a impact for a community and seek to have a response to it</p>
+                
+                </div>
+            </div>
+            <div class="testimonials-col">
+                <img src="C:\Users\DELL\Desktop\New folder\mission.jfif">
+                <div>
+<h3> Our people</h3>
+                    <p>Our business has been grown from 500 people to 1,00,000 employees powered by web development, We care deepky about the work we do, we're constant learners to thrive on change and achieve our mission</p>
+               
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="cta">
+        <h1>Enroll for Our Various Courses Anywhere from The World </h1>
+        <a href="" class="hero-btn">Contact Us</a>
+    </section>
+    <section class="footer">
+        <h4>Contact Us</h4>
+        <div class="footer-cont"><h4>Contact customer support</h4>
+<p>We'll help you find the right products and pricing of our business & services</p>
+</div>
+    
+    </section>
+</body>
